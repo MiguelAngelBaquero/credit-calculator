@@ -2,7 +2,7 @@
   "name": "credit-calculator",
   "version": "1.0.0",
   "description": "credit calculator",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "node --watch --env-file=.env index.js",
     "start": "node --env-file=.env index.js",
